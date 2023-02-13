@@ -1,0 +1,17 @@
+{
+    "name": "aelton/arquivos-composer",
+    "description": "Orientação a objetos com composer",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aelton",
+            "email": "aeltontj@gmail.com"
+        }
+    ],
+    "require": {}
+}
